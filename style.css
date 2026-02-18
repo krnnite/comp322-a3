@@ -1,0 +1,10 @@
+.myTable {
+    border: 1px solid black;
+}
+.myTable th {
+    background-color: orange;
+}
+.myTable td {
+    font-weight: bold;
+    border: 1px solid black;
+}
